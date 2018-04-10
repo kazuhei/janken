@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 90px auto;
+}
+
+.game-panel {
+
+}
+
+.own-hand, .result, .computer-hand {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.hand-text-box {
+    width: 100%;
+    height: 200px;
+    border: 1px solid #ddd;
+}
+
+.hand-text {
+    line-height: 200px;
+    text-align: center;
+}
+
+.result-text {
+    line-height: 300px;
+    text-align: center;
+}
+
+.form-wrapper {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form-hands {
+    margin-bottom: 20px;
+}
+
+.submit-button {
+    padding: 10px 20px;
+}
+
+.clear {
+    clear: both;
+}
+
